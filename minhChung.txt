@@ -1,1 +1,3 @@
 link expo redux saga: https://snack.expo.dev/@nmtien1801/2fc403
+link expo redux toolkit: https://snack.expo.dev/@nmtien1801/redux-toolkit
+link expo recoil: https://snack.expo.dev/@nmtien1801/recoil
